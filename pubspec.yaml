@@ -2,6 +2,7 @@ name: inner_shadow_flutter
 description: A Flutter widget that renders an inner shadow effect on its child widget. Lightweight and customizable — supports blur radius, color, and offset.
 version: 0.0.1
 homepage: https://github.com/yourusername/inner_shadow_flutter
+repository: https://github.com/salahsaads/InnerShadow
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
